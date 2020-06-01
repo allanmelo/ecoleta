@@ -6,6 +6,8 @@ This application uses TypeScript with NodeJS, ReactJS and React Native.
 
 The solution aims to serve as a marketplace for waste collection, where owners of waste processing sites can register their businesses, and users can find them and contact them, to properly dispose their wastes.
 
+![ecoleta_capa](https://user-images.githubusercontent.com/16151423/83423039-cd53d500-a400-11ea-9273-dc997bcdd306.png)
+
 ## Technology
 👇 This project is under development with the following technologies: 👇
 
