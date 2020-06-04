@@ -19,6 +19,7 @@ The solution aims to serve as a marketplace for waste collection, where owners o
 -  [TS-Node](https://github.com/TypeStrong/ts-node)
 -  [VS Code](https://code.visualstudio.com/)
 
+## Mobile
 
 ## :memo: License
 
