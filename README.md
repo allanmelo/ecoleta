@@ -13,13 +13,19 @@ The solution aims to serve as a marketplace for waste collection, where owners o
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
--  [Express](https://expressjs.com/)
 -  [ReactJS](https://reactjs.org/)
 -  [React Native](https://reactnative.dev/)
+-  [Express](https://expressjs.com/)
 -  [TS-Node](https://github.com/TypeStrong/ts-node)
 -  [VS Code](https://code.visualstudio.com/)
+-  [SQLite3](https://www.sqlite.org/index.html)
+-  [Knex](http://knexjs.org/)
+-  [Axios](https://github.com/axios/axios)
+-  [Leaflet](https://leafletjs.com/)
 
 ## Mobile
+👇 The mobile app of Ecoleta is on another repo, and included here as a submodule: 👇
+-  [Ecoleta Mobile](https://github.com/allmelo/ecoleta-mobile)
 
 ## :memo: License
 
